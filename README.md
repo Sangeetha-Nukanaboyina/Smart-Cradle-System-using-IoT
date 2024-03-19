@@ -1,0 +1,4 @@
+This cradle swings automatically on detection of baby cry sound. Also it activates buzzer and gives alerts on phone if-first, baby cry continues till specific time which means now cradle cannot handle baby and baby needs personal attention and second, if the mattress in the cradle is wet.![WhatsApp Image 2024-03-19 at 10 17 05](https://github.com/Sangeetha-Nukanaboyina/Smart-Cradle-System-using-IoT/assets/138498339/a3e48bdd-5600-4388-897d-c3738a613511)
+![WhatsApp Image 2024-03-19 at 10 17 05](https://github.com/Sangeetha-Nukanaboyina/Smart-Cradle-System-using-IoT/assets/138498339/c2d82fa8-0595-45d0-9ad3-a0484a53ed9d)
+![WhatsApp Image 2024-03-19 at 10 17 05 (1)](https://github.com/Sangeetha-Nukanaboyina/Smart-Cradle-System-using-IoT/assets/138498339/37ecc142-a60a-46f7-a21e-92be386fbea6)
+![WhatsApp Image 2024-03-19 at 10 17 05 (3)](https://github.com/Sangeetha-Nukanaboyina/Smart-Cradle-System-using-IoT/assets/138498339/d3f9e7dc-1f70-4875-bef0-dcddae873acf)
